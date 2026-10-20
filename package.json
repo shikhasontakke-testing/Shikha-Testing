@@ -1,0 +1,16 @@
+{
+  "name": "shikha-testing",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test:api": "npm --prefix Apihelper-testing run test:api"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@playwright/test": "^1.61.1",
+    "@types/node": "^26.6.5"
+  }
+}
